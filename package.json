@@ -1,6 +1,6 @@
 {
-  "name": "reactwarriors-workshop",
-  "version": "0.1.0",
+  "name": "cinema-list",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
